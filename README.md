@@ -1,6 +1,7 @@
 # TBprepicDownloader
 淘宝主图下载小助手
-![Image]
+
+![Image](https://github.com/datadt/TBprepicDownloader/blob/master/%E6%B7%98%E5%AE%9D%E4%B8%BB%E5%9B%BE%E4%B8%8B%E8%BD%BD%E5%B0%8F%E5%8A%A9%E6%89%8B%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE.jpg)
 
 可执行文件EXE由python打包生成，源码见py文件。如下载电脑杀毒软件可能提示报毒，通过加入白名单安全使用。
 
